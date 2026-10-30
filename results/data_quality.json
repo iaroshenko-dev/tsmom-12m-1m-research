@@ -1,0 +1,30 @@
+{
+  "daily_start": "1959-07-02",
+  "daily_end": "2026-07-10",
+  "daily_rows": 17487,
+  "contracts": 84,
+  "wheel_sha256": "76beb7a35b22cb2784df98bb20a6d9ca5803c4df761398b877db765bd6562c9a",
+  "cost_values_unique": [
+    0.0001,
+    0.0002,
+    0.0003,
+    0.0006,
+    0.001,
+    0.0011,
+    0.0018,
+    0.0019,
+    0.0034,
+    0.0058
+  ],
+  "max_monthly_missing_exposures_tsmom": 0,
+  "months_with_missing_exposure_tsmom": 0,
+  "contracts_by_class": {
+    "Agriculture": 20,
+    "Bonds": 16,
+    "Energy": 7,
+    "Equities": 21,
+    "FX": 10,
+    "Metals": 6,
+    "STIR": 4
+  }
+}
